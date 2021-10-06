@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\bin\Debug\PrimitivaGraficas.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\bin\Debug\PrimitivaGraficas.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\bin\Debug\PrimitivaGraficas.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\PrimitivaGraficas\PrimitivaGraficas\obj\Debug\PrimitivaGraficas.pdb
